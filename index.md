@@ -1,8 +1,8 @@
-## Welcome to ICML 2022 Workshop Machine Learning for Astrophysics 
+## Machine Learning for Astrophysics
 
-You can use the [editor on GitHub](https://github.com/ml4astro/icml2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Workshop at the Thirty-ninth International Conference on Machine Learning [(ICML)](https://icml.cc/)
+July 23rd 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About
 
