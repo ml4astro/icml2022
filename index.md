@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ICML 2022 Workshop Machine Learning for Astrophysics 
 
 You can use the [editor on GitHub](https://github.com/ml4astro/icml2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
