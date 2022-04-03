@@ -23,7 +23,7 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 
 ### SOC
 
-| ![François Lanusse](/assets/francois_lanusse_square2.png | width =100) | ![Marc Huertas-Company](/assets/huertas-company.png | width =100)
+| ![François Lanusse](/assets/francois_lanusse_square2.png | width =100px) | ![Marc Huertas-Company](/assets/huertas-company.png | width =100px)
 |:--:|:--:|
 |*François Lanusse - CEA (Chair)*|*Marc Huertas-Company - IAC (Co-Chair)*
 
