@@ -25,7 +25,7 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 
 ![François Lanusse](/assets/francois_lanusse_square2.png)
 
-{:.image-caption}
+
 *François Lanusse - CEA (Chair)*
 
 
