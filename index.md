@@ -1,7 +1,4 @@
-## Machine Learning for Astrophysics
-
-Workshop at the Thirty-ninth International Conference on Machine Learning [(ICML)](https://icml.cc/)
-July 23rd 2022
+[About](#about) - [Important dates](#important-dates) - [SOC](#soc)
 
 
 ### About
@@ -21,6 +18,10 @@ We welcome in particular submissions that target or report on the following prob
 
 An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools. This workshop is designed to facilitate this dialog and will include a panel discussion on how to promote an interdisciplinary future for Astrophysics.
 We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges. 
+
+### Important Dates
+
+### SOC
 
 
 
