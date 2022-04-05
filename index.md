@@ -1,4 +1,4 @@
-[About](#about) - [Important dates](#important-dates) - [SOC](#soc) - [Program](#preliminary-program) - [Invited Speakers](#confirmed-invited-speakers)
+[About](#about) - [Important dates](#important-dates) - [Call for Abstracts](#call-for-abstracts) - [Program](#preliminary-program) - [Invited Speakers](#confirmed-invited-speakers) - [SOC](#soc) 
 
 
 ### About
@@ -24,6 +24,8 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 - May 16th: abstract submission deadline 
 - June 3rd: notification of acceptance
 - July 23d: workshop 
+
+### Call for Abstracts
 
 ### Preliminary Program
 
