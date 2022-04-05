@@ -28,6 +28,20 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 ### Preliminary Program
 
 
+| 9.15-10.00  | Keynote I  - Katie Bouman: Computational Imaging in astronomy and uncertainty quantification |
+| 10.00-10.30 | 2 spotlight presentations  |
+| 10.30-11.30 | Panel Discussion I: Building an interdisciplinary future  |
+| 11.30-12.30 | Poster Session 1  |
+| 12.30-13.30 | Lunch Break  |
+| 13.30-14.15 | Keynote II - Jakob Macke: Simulation-Based Inference  |
+| 14.15-15.00 | 3 spotlight presentations |
+| 15.00-16.00 | Panel Discussion II:  ML for Scientific Discovery |
+| 17.00-17.45 | Keynote III  - Dustin Tran: Uncertainty Quantification and calibration in ML |
+| 17.45-18.30 | 3 spotlight presentations |
+| 17.45-18.30 | Keynote IV - Soledad Villar: Symmetries and Equivariance in ML for Physics |
+
+
+
 
 ### SOC
 
