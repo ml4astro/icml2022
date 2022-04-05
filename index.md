@@ -52,6 +52,7 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 ### SOC
 
 | ![François Lanusse](/assets/francois_lanusse_square2.png) | ![Marc Huertas-Company](/assets/huertas-company.png) | ![Vanessa Boehm](/assets/boehm.jpeg) 
+|:--:|:--:|:--:|
 |*François Lanusse - CEA (Chair)*|*Marc Huertas-Company - IAC (Co-Chair)*|*Vanessa Boehm - Berkeley*|
 | ![Brice Menard](/assets/menard.jpeg) | ![Xavier J. Prochaska](/assets/X-prochaska.jpeg)|![Uros Seljak](/assets/slejak.jpeg)
 |*Brice Ménard - Johns Hopkins*|*Xavier J. Prochaska - UCSC*|*Uros Seljak - Berkeley*|
