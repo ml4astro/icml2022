@@ -1,4 +1,4 @@
-[About](#about) - [Important dates](#important-dates) - [SOC](#soc) - [Program](#preliminary-program) - [Invited Speakers](#invited)
+[About](#about) - [Important dates](#important-dates) - [SOC](#soc) - [Program](#preliminary-program) - [Invited Speakers](#confirmed-invited-speakers)
 
 
 ### About
