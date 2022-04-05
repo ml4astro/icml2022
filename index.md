@@ -1,4 +1,4 @@
-[About](#about) - [Important dates](#important-dates) - [SOC](#soc)
+[About](#about) - [Important dates](#important-dates) - [SOC](#soc) - [Program](#preliminary-program)
 
 
 ### About
@@ -20,6 +20,14 @@ An important aspect to the success of Machine Learning in Astrophysics is to cre
 We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges. 
 
 ### Important Dates
+
+- May 16th: abstract submission deadline 
+- June 3rd: notification of acceptance
+- July 23d: workshop 
+
+### Preliminary Program
+
+
 
 ### SOC
 
