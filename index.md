@@ -1,4 +1,4 @@
-[About](#about) - [Important dates](#important-dates) - [SOC](#soc) - [Program](#preliminary-program)
+[About](#about) - [Important dates](#important-dates) - [SOC](#soc) - [Program](#preliminary-program) - [Invited Speakers](#invited)
 
 
 ### About
@@ -40,7 +40,10 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 | 17.45-18.30 | Keynote IV - Soledad Villar: Symmetries and Equivariance in ML for Physics |
 
 
-
+### Invited Speakers
+| ![Katie Bouman](/assets/francois_lanusse_square2.png) | ![Jakob Macke](/assets/huertas-company.png) | ![Dustin Tran](/assets/boehm.jpeg) 
+|:--:|:--:|:--:|
+|*Katie Bouman - Caltech*|*Jakob Macke - Tübingen University*|*Dustin Tran - Google*|
 
 ### SOC
 
