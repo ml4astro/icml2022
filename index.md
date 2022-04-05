@@ -27,7 +27,6 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 
 ### Preliminary Program
 
-
 | 9.15-10.00  | Keynote I  - Katie Bouman: Computational Imaging in astronomy and uncertainty quantification |
 | 10.00-10.30 | 2 spotlight presentations  |
 | 10.30-11.30 | Panel Discussion I: Building an interdisciplinary future  |
