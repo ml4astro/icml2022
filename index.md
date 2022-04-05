@@ -45,6 +45,8 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 | ![Katie Bouman](/assets/bouman.jpeg) | ![Jakob Macke](/assets/macke.jpeg) | ![Dustin Tran](/assets/tran.jpeg) |
 |:--:|:--:|:--:|
 |*Katie Bouman - Caltech*|*Jakob Macke - Tübingen University*|*Dustin Tran - Google*|
+| ![Soledad Villar](/assets/svillar.jpeg) |
+|*Soledad Villar - Johns Hopkins*|
 
 
 ### SOC
