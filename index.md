@@ -59,4 +59,4 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 | ![Brice Menard](/assets/menard.jpeg) | ![Xavier J. Prochaska](/assets/X-prochaska.jpeg)|![Uros Seljak](/assets/slejak.jpeg)
 |*Brice Ménard - Johns Hopkins*|*Xavier J. Prochaska - UCSC*|*Uros Seljak - Berkeley*|
 | ![Francisco Villaescusa-Navarro](/assets/villaescusa.jpeg) |![Ashley Villar](/assets/villar.jpeg) |
-|*Francisco Villaescusa-Navarro - CCA*||*Ashley Villar - Penn State*|
+|*Francisco Villaescusa-Navarro - CCA*| *Ashley Villar - Penn State*|
