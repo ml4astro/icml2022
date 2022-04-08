@@ -1,10 +1,11 @@
-[About](#about) - [Important dates](#important-dates) - [Call for Abstracts](#call-for-abstracts) - [Program](#preliminary-program) - [Invited Speakers](#confirmed-invited-speakers) - [SOC](#soc) 
-
-
-### About
+---
+layout: home
+background: '/assets/background.jpg'
+---
 
 As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of hundreds of millions of distant galaxies to the mapping of cosmic radiation fields at ultra-high resolution, conventional data analysis methods are reaching their limits in both computational complexity and optimality. Deep Learning has rapidly been adopted by the astronomical community as a promising way of exploiting these forthcoming big-data datasets and of extracting the physical principles that underlie these complex observations. This has led to an unprecedented exponential growth of publications with in the last year alone about 500 astrophysics papers mentioning deep learning or neural networks in their abstract. Yet, many of these works remain at an exploratory level and have not been translated into real scientific breakthroughs.
-The goal of this workshop is to bring together Machine Learning researchers and domain experts in the field of Astrophysics to discuss the key open issues which hamper the use of Deep Learning for scientific discovery.  Rather than focusing on the benefits of deep learning for astronomy, the proposed workshop aims at overcoming its limitations.
+
+The goal of this workshop is to bring together Machine Learning researchers and domain experts in the field of Astrophysics to discuss the key open issues which hamper the use of Deep Learning for scientific discovery. Rather than focusing on the benefits of deep learning for astronomy, this workshop aims at overcoming its limitations.
 
 We welcome in particular submissions that target or report on the following problems:
 - Efficient high-dimensional Likelihood-based and Simulation-Based Inference
@@ -16,18 +17,29 @@ We welcome in particular submissions that target or report on the following prob
 - Deep Learning for accelerating numerical simulations
 - Benchmarking and deployment of ML models for large-scale data analysis
 
-An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools. This workshop is designed to facilitate this dialog and will include a panel discussion on how to promote an interdisciplinary future for Astrophysics.
-We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges. 
+<!-- An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools. This workshop is designed to facilitate this dialog and will include a panel discussion on how to promote an interdisciplinary future for Astrophysics.
+We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges. -->
 
-### Important Dates
+## Important Dates
 
-- May 16th: abstract submission deadline 
+- May 16th: abstract submission deadline
 - June 3rd: notification of acceptance
-- July 23d: workshop 
+- July 23d: workshop
 
-### Call for Abstracts
+# Call for Abstracts
 
-### Preliminary Program
+# Program
+
+### Confirmed Invited Speakers and Panelists
+
+| ![Katie Bouman](/assets/bouman.jpeg) | ![Jakob Macke](/assets/macke.jpeg) | ![Dustin Tran](/assets/tran.jpeg) |
+|:--:|:--:|:--:|
+|*Katie Bouman - Caltech*|*Jakob Macke - Tübingen University*|*Dustin Tran - Google*|
+| ![Soledad Villar](/assets/svillar.jpeg) |
+|*Soledad Villar - Johns Hopkins*|
+
+
+Preliminary program:
 
 | 9.15-10.00  | Keynote I  - Katie Bouman: Computational Imaging in astronomy and uncertainty quantification |
 | 10.00-10.30 | 2 spotlight presentations  |
@@ -42,18 +54,9 @@ We expect this workshop to appeal to ICML audiences as an opportunity to connect
 | 17.45-18.30 | Keynote IV - Soledad Villar: Symmetries and Equivariance in ML for Physics |
 
 
-### Confirmed Invited Speakers
-
-| ![Katie Bouman](/assets/bouman.jpeg) | ![Jakob Macke](/assets/macke.jpeg) | ![Dustin Tran](/assets/tran.jpeg) |
-|:--:|:--:|:--:|
-|*Katie Bouman - Caltech*|*Jakob Macke - Tübingen University*|*Dustin Tran - Google*|
-| ![Soledad Villar](/assets/svillar.jpeg) |
-|*Soledad Villar - Johns Hopkins*|
-
-
 ### SOC
 
-| ![François Lanusse](/assets/francois_lanusse_square2.png) | ![Marc Huertas-Company](/assets/huertas-company.png) | ![Vanessa Boehm](/assets/boehm.jpeg) 
+| ![François Lanusse](/assets/francois_lanusse_square2.png) | ![Marc Huertas-Company](/assets/huertas-company.png) | ![Vanessa Boehm](/assets/boehm.jpeg)
 |:--:|:--:|:--:|
 |*François Lanusse - CEA (Chair)*|*Marc Huertas-Company - IAC (Co-Chair)*|*Vanessa Boehm - Berkeley*|
 | ![Brice Menard](/assets/menard.jpeg) | ![Xavier J. Prochaska](/assets/X-prochaska.jpeg)|![Uros Seljak](/assets/slejak.jpeg)
