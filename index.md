@@ -46,24 +46,81 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 | ![Katie Bouman](/assets/bouman.jpeg) | ![Jakob Macke](/assets/macke.jpeg) | ![Dustin Tran](/assets/tran.jpeg) |
 |:--:|:--:|:--:|
 |*Katie Bouman - Caltech*|*Jakob Macke - Tübingen University*|*Dustin Tran - Google*|
-| ![Soledad Villar](/assets/svillar.jpeg) |
-|*Soledad Villar - Johns Hopkins*|
+| ![Soledad Villar](/assets/svillar.jpeg) | ![Josh Bloom]() | ![Laurence Perreault-Levasseur]()
+|*Soledad Villar - Johns Hopkins*| *Josh Bloom - UC Berkeley* | *Laurence Perreault-Levasseur - UoM* |
+| ![George Stein]() |
+| *George Stein - UC Berkeley * |
 
 <br>
-#### Preliminary program:
+#### Tentative schedule
 
+*The following schedule is only tentative and subject to modifications, a final schedule will be
+announced ahead of the workshop.*
 
-| 9.15-10.00  | Keynote I  - Katie Bouman: Computational Imaging in astronomy and uncertainty quantification |
-| 10.00-10.30 | 2 spotlight presentations  |
-| 10.30-11.30 | Panel Discussion I: Building an interdisciplinary future  |
-| 11.30-12.30 | Poster Session 1  |
-| 12.30-13.30 | Lunch Break  |
-| 13.30-14.15 | Keynote II - Jakob Macke: Simulation-Based Inference  |
-| 14.15-15.00 | 3 spotlight presentations |
-| 15.00-16.00 | Panel Discussion II:  ML for Scientific Discovery |
-| 17.00-17.45 | Keynote III  - Dustin Tran: Uncertainty Quantification and calibration in ML |
-| 17.45-18.30 | 3 spotlight presentations |
-| 17.45-18.30 | Keynote IV - Soledad Villar: Symmetries and Equivariance in ML for Physics |
+<table class="table table-striped">
+  <tbody>
+    <tr>
+      <th scope="row"><nobr>9:15-10:00</nobr> </th>
+      <td>Keynote</td>
+      <td>Katie Bouman: Computational Imaging in astronomy</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:00-10:30</nobr> </th>
+      <td>Spotlight</td>
+      <td> 2 talks </td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:30-11:30</nobr> </th>
+      <td>Pannel Discussion</td>
+      <td>Building an interdisciplinary future</td>
+    </tr>
+      <tr>
+        <th scope="row"><nobr>11:30-12:30</nobr> </th>
+        <td>Poster Session</td>
+        <td> Morning Session </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>12:30-13:30</nobr> </th>
+        <td>Lunch break</td>
+        <td>  </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>13:30-14:15</nobr> </th>
+        <td>Keynote</td>
+        <td>Jakob Macke: Simulation-Based Inference </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>14:15-15:00</nobr> </th>
+        <td>Spotlight</td>
+        <td> 3 talks </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>15:00-16:00</nobr> </th>
+        <td> Poster Session </td>
+        <td> Afternoon Session </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:00-16:45</nobr> </th>
+        <td> Keynote </td>
+        <td> Dustin Tran: Uncertainty Quantification and calibration in ML </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:45-17:30</nobr> </th>
+        <td> Spotlight </td>
+        <td> 3 talks </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>17:30-18:15</nobr> </th>
+        <td> Keynote </td>
+        <td> Soledad Villar: Symmetries and Equivariance in ML for Physics </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>18:15-19:15</nobr> </th>
+        <td> Panel Discussion </td>
+        <td> Enabling Scientific Discoveries with ML </td>
+      </tr>
+  </tbody>
+</table>
 
  ---
 <br>
@@ -81,8 +138,9 @@ Please submit your anonymized extended abstract through CMT at [https://cmt3.res
 <br>
 # Logistics and FAQs
 
+This workshop is currently planned to happen in-person, with only limited support for remote participation. In particular, e-posters are not expected to be supported at this time, one author will be expected to attend the workshop in person to present their work.
 
-
+More information about logistical details will be shared here in the coming weeks.
 
 ---
 <br>
