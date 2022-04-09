@@ -6,7 +6,7 @@ background: '/assets/background.jpg'
 
 As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of hundreds of millions of distant galaxies to the mapping of cosmic radiation fields at ultra-high resolution, conventional data analysis methods are reaching their limits in both computational complexity and optimality. Deep Learning has rapidly been adopted by the astronomical community as a promising way of exploiting these forthcoming big-data datasets and of extracting the physical principles that underlie these complex observations. This has led to an unprecedented exponential growth of publications with in the last year alone about 500 astrophysics papers mentioning deep learning or neural networks in their abstract. Yet, many of these works remain at an exploratory level and have not been translated into real scientific breakthroughs.
 
-**The goal of this workshop is to bring together Machine Learning researchers and domain experts in the field of Astrophysics to discuss the key open issues which hamper the use of Deep Learning for scientific discovery.**
+**The goal of this ICML 2022 workshop is to bring together Machine Learning researchers and domain experts in the field of Astrophysics to discuss the key open issues which hamper the use of Deep Learning for scientific discovery.**
 
 An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools. This workshop is designed to facilitate this dialog and will include a mix of interdisciplinary invited talks and panel discussions, providing an *opportunity for ICML audiences to connect their research interests to concrete and outstanding scientific challenges*.
 
@@ -43,15 +43,56 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 
 #### Confirmed Invited Speakers and Panelists
 
-| ![Katie Bouman](/assets/bouman.jpeg) | ![Jakob Macke](/assets/macke.jpeg) | ![Dustin Tran](/assets/tran.jpeg) |
-|:--:|:--:|:--:|
-|*Katie Bouman - Caltech*|*Jakob Macke - Tübingen University*|*Dustin Tran - Google*|
-| ![Soledad Villar](/assets/svillar.jpeg) | ![Josh Bloom]() | ![Laurence Perreault-Levasseur]()
-|*Soledad Villar - Johns Hopkins*| *Josh Bloom - UC Berkeley* | *Laurence Perreault-Levasseur - UoM* |
-| ![George Stein]() |
-| *George Stein - UC Berkeley * |
-
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/josh-bloom-660x745-cropped.jpg"/>
+    <br>
+    <h5>Josh Bloom</h5>UC Berkeley
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/bouman2.jpg"/>
+    <br>
+    <h5>Katie Bouman</h5>Caltech
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/JakobMacke.jpg"/>
+    <br>
+    <h5>Jakob Macke</h5>Tübingen University
+  </div>
+</div>
 <br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/Levasseur_Laurence-509x676.jpg"/>
+    <br>
+    <h5>Laurence Perreault-Levasseur</h5> University of Montreal
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/dtran.png"/>
+    <br>
+    <h5>Dustin Tran</h5> Google
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/george_stein.jpeg"/>
+    <br>
+    <h5>George Stein</h5>UC Berkeley
+  </div>
+</div>
+<br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/svillar.jpg"/>
+    <br>
+    <h5>Soledad Villar</h5>Johns Hopkins University
+  </div>
+  <div class="col center-block text-center">
+  </div>
+</div>
+</div>
+
 #### Tentative schedule
 
 *The following schedule is only tentative and subject to modifications, a final schedule will be
@@ -146,10 +187,55 @@ More information about logistical details will be shared here in the coming week
 <br>
 # SOC
 
-| ![François Lanusse](/assets/francois_lanusse_square2.png) | ![Marc Huertas-Company](/assets/huertas-company.png) | ![Vanessa Boehm](/assets/boehm.jpeg)
-|:--:|:--:|:--:|
-|*François Lanusse - CEA (Co-Chair)*|*Marc Huertas-Company - IAC (Co-Chair)*|*Vanessa Boehm - Berkeley*|
-| ![Brice Menard](/assets/menard.jpeg) | ![Xavier J. Prochaska](/assets/X-prochaska.jpeg)|![Uros Seljak](/assets/seljak.jpeg)
-|*Brice Ménard - Johns Hopkins*|*Xavier J. Prochaska - UCSC*|*Uros Seljak - Berkeley*|
-| ![Francisco Villaescusa-Navarro](/assets/villaescusa.jpeg) |![Ashley Villar](/assets/villar.jpeg) |
-|*Francisco Villaescusa-Navarro - CCA*|*Ashley Villar - Penn State*|
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/francois_lanusse_square2.png"/>
+    <br>
+    <h5>Francois Lanusse</h5>CNRS (Co-Chair)
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/huertas-company.png"/>
+    <br>
+    <h5>Marc Huertas-Company</h5>IAC (Co-Chair)
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/boehm.jpeg"/>
+    <br>
+    <h5>Vanessa Boehm</h5>UC Berkeley
+  </div>
+</div>
+<br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/menard.jpeg"/>
+    <br>
+    <h5>Brice Ménard</h5> Johns Hopkins University
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/X-prochaska.jpeg"/>
+    <br>
+    <h5>Xavier J. Prochaska</h5> UC Santa-Cruz
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/useljak.png"/>
+    <br>
+    <h5>Uros Seljak</h5>UC Berkeley
+  </div>
+</div>
+<br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/villaescusa.png"/>
+    <br>
+    <h5>Francisco Villaescusa-Navarro</h5>Princeton
+  </div>
+  <div class="col center-block text-center">
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/avillar.jpg"/>
+    <br>
+    <h5>Ashley Villar</h5>Pennsylvania State University
+  </div>
+</div>
+</div>
