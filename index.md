@@ -46,17 +46,17 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <div class="container">
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/josh-bloom-660x745-cropped.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/josh-bloom-660x745-cropped.jpg"/>
     <br>
     <h5>Josh Bloom</h5>UC Berkeley
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/bouman2.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/bouman2.jpg"/>
     <br>
     <h5>Katie Bouman</h5>Caltech
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/JakobMacke.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/JakobMacke.jpg"/>
     <br>
     <h5>Jakob Macke</h5>Tübingen University
   </div>
@@ -64,17 +64,17 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/Levasseur_Laurence-509x676.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/Levasseur_Laurence-509x676.jpg"/>
     <br>
     <h5>Laurence Perreault-Levasseur</h5> University of Montreal
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/dtran.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/dtran.png"/>
     <br>
     <h5>Dustin Tran</h5> Google
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/george_stein.jpeg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/george_stein.jpeg"/>
     <br>
     <h5>George Stein</h5>UC Berkeley
   </div>
@@ -84,7 +84,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
   <div class="col center-block text-center">
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/svillar.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/svillar.jpg"/>
     <br>
     <h5>Soledad Villar</h5>Johns Hopkins University
   </div>
@@ -190,17 +190,17 @@ More information about logistical details will be shared here in the coming week
 <div class="container">
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/francois_lanusse_square2.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/francois_lanusse_square2.png"/>
     <br>
     <h5>Francois Lanusse</h5>CNRS (Co-Chair)
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/huertas-company.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/huertas-company.png"/>
     <br>
     <h5>Marc Huertas-Company</h5>IAC (Co-Chair)
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/boehm.jpeg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/boehm.jpeg"/>
     <br>
     <h5>Vanessa Boehm</h5>UC Berkeley
   </div>
@@ -208,17 +208,17 @@ More information about logistical details will be shared here in the coming week
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/menard.jpeg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/menard.jpeg"/>
     <br>
     <h5>Brice Ménard</h5> Johns Hopkins University
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/X-prochaska.jpeg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/X-prochaska.jpeg"/>
     <br>
     <h5>Xavier J. Prochaska</h5> UC Santa-Cruz
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/useljak.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/useljak.png"/>
     <br>
     <h5>Uros Seljak</h5>UC Berkeley
   </div>
@@ -226,14 +226,14 @@ More information about logistical details will be shared here in the coming week
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/villaescusa.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/villaescusa.png"/>
     <br>
     <h5>Francisco Villaescusa-Navarro</h5>Princeton
   </div>
   <div class="col center-block text-center">
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/assets/avillar.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/avillar.jpg"/>
     <br>
     <h5>Ashley Villar</h5>Pennsylvania State University
   </div>
