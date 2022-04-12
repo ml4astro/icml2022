@@ -29,9 +29,9 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 ### Important Dates
 
 *Note that dates are not final and still subject to change*
-- **Submission deadline**: May 16th
-- **Author Notification**: June 3rd
-- **Slideslive upload deadline for online talks**: June 17th
+- **Submission deadline**: May 23rd
+- **Author Notification**: June 10th
+- **Slideslive upload deadline for online talks**: July 1st
 - **Camera-ready poster deadline**: July 10th
 - **Workshop date**: July 22nd or 23rd
 
@@ -56,13 +56,18 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
     <h5>Katie Bouman</h5>Caltech
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/JakobMacke.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/Daniela.jpg"/>
     <br>
-    <h5>Jakob Macke</h5>Tübingen University
+    <h5>Daniela Huppenkothen</h5>SRON Netherlands Institute for Space Research
   </div>
 </div>
 <br>
 <div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/JakobMacke.jpg"/>
+    <br>
+    <h5>Jakob Macke</h5>Tübingen University
+  </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/Levasseur_Laurence-509x676.jpg"/>
     <br>
@@ -73,15 +78,13 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
     <br>
     <h5>Dustin Tran</h5> Google
   </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/george_stein.jpeg"/>
-    <br>
-    <h5>George Stein</h5>UC Berkeley
-  </div>
 </div>
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/george_stein.jpeg"/>
+    <br>
+    <h5>George Stein</h5>UC Berkeley
   </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/svillar.jpg"/>
@@ -173,7 +176,7 @@ Original contributions and early research works are encouraged. Contributions pr
 
 Submissions, in the form of extended abstracts, need to adhere to the [ICML 2022 format](https://icml.cc/Conferences/2022/StyleAuthorInstructions) ([LaTeX style files](https://media.icml.cc/Conferences/ICML2022/Styles/icml2022.zip)), be anonymized, and be no longer than 4 pages (excluding references). After double-blind review, a limited set of submissions will be selected for contributed talks, and a wider set of submissions will be selected for poster presentations.
 
-Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2022](https://cmt3.research.microsoft.com/ML4Astro2022)  **before May 16th, 23:59 AOE**.
+Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2022](https://cmt3.research.microsoft.com/ML4Astro2022)  **before May 23rd, 23:59 AOE**.
 
 ---
 <br>
@@ -228,7 +231,7 @@ More information about logistical details will be shared here in the coming week
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/villaescusa.png"/>
     <br>
-    <h5>Francisco Villaescusa-Navarro</h5>Princeton
+    <h5>Francisco Villaescusa-Navarro</h5>Simons Foundation
   </div>
   <div class="col center-block text-center">
   </div>
