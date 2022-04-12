@@ -184,6 +184,8 @@ Please submit your anonymized extended abstract through CMT at [https://cmt3.res
 
 This workshop is currently planned to happen in-person, with only limited support for remote participation. In particular, e-posters are not expected to be supported at this time, one author will be expected to attend the workshop in person to present their work.
 
+Registration for ICML workshops is handled through the main ICML conference registration [here](https://icml.cc/Register2). The workshop will be able to guarantee the ICML registration for participants with accepted contributions (i.e. these participants will not be subject to the ICML lottery).
+
 More information about logistical details will be shared here in the coming weeks.
 
 Inquiries regarding the workshop can be directed to <icml2022ml4astro@gmail.com>
@@ -191,6 +193,8 @@ Inquiries regarding the workshop can be directed to <icml2022ml4astro@gmail.com>
 ---
 <br>
 # SOC
+
+Scientific Organizing Committee for the ICML 2022 Machine Learning for Astrophysics workshop:
 
 <div class="container">
 <div class="row no-gutters">
