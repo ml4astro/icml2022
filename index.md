@@ -186,6 +186,8 @@ This workshop is currently planned to happen in-person, with only limited suppor
 
 More information about logistical details will be shared here in the coming weeks.
 
+Inquiries regarding the workshop can be directed to <icml2022ml4astro@gmail.com>
+
 ---
 <br>
 # SOC
