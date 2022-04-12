@@ -58,7 +58,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/Daniela.jpg"/>
     <br>
-    <h5>Daniela Huppenkothen</h5>SRON Netherlands Institute for Space Research
+    <h5>Daniela Huppenkothen</h5>SRON
   </div>
 </div>
 <br>
