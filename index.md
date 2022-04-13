@@ -182,7 +182,8 @@ Please submit your anonymized extended abstract through CMT at [https://cmt3.res
 <br>
 # Logistics and FAQs
 
-This workshop is currently planned to happen in-person, with only limited support for remote participation. In particular, e-posters are not expected to be supported at this time, one author will be expected to attend the workshop in person to present their work.
+ICML 2022 is currently planned as an in-person event. As such, this workshop is currently assuming a hybrid format, with physical poster sessions and in-person speakers, but with support for virtual elements to facilitate participation of people unable to travel. The exact format might evolve in the coming months, depending on the COVID conditions.
+We encourage all interested participants (regardless of their ability to physically travel to ICML) to submit an extended abstracts.
 
 Registration for ICML workshops is handled through the main ICML conference registration [here](https://icml.cc/Register2). The workshop will be able to guarantee the ICML registration for participants with accepted contributions (i.e. these participants will not be subject to the ICML lottery).
 
