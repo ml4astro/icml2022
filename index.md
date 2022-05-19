@@ -33,7 +33,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 - **Author Notification**: June 10th
 - **Slideslive upload deadline for online talks**: July 1st
 - **Camera-ready poster deadline**: July 10th
-- **Workshop date**: July 22nd or 23rd
+- **Workshop date**: July 22nd 
 
 ---
 
