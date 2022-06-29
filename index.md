@@ -42,12 +42,12 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 # Instructions for Posters
 
 To prepare your poster, please use the following dimensions: 
-Recommended size: 24"W x 36"H, 61 x 90cm (A1 portrait)
-Maximum size: 48”W x 36”H, 122 x 90 cm (A0 landscape)
-Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
+- Recommended size: 24"W x 36"H, 61 x 90cm (A1 portrait)
+- Maximum size: 48”W x 36”H, 122 x 90 cm (A0 landscape)
+- Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
 
-In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: https://wiki.eventhosts.cc/en/reference/posteruploads
-You will be able to submit your poster at this link: https://icml.cc/PosterUpload 
+In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: [https://wiki.eventhosts.cc/en/reference/posteruploads](https://wiki.eventhosts.cc/en/reference/posteruploads)
+You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://wiki.eventhosts.cc/en/reference/posteruploads) 
 
 
 <br>
