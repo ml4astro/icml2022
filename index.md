@@ -31,7 +31,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 *Note that dates are not final and still subject to change*
 - **Submission deadline**: May 23rd
 - **Author Notification**: June 10th
-- **Slideslive upload deadline for online talks**: July 1st
+- **Slideslive upload deadline for online talks**: July 1st (SlidesLive will only guarantee your recording will be available in time for the conference if you respect the official July 1st deadline, so we highly encourage you to submit it by then.)
 - **Camera-ready paper deadline**: July 10th
 - **Camera-ready poster deadline**: July 15th (see instructions below)
 - **Workshop date**: July 22nd 
