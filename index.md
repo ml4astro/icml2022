@@ -32,10 +32,23 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 - **Submission deadline**: May 23rd
 - **Author Notification**: June 10th
 - **Slideslive upload deadline for online talks**: July 1st
-- **Camera-ready poster deadline**: July 10th
+- **Camera-ready paper deadline**: July 10th
+- **Camera-ready poster deadline**: July 15th (see instructions below)
 - **Workshop date**: July 22nd 
 
 ---
+
+<br>
+# Instructions for Posters
+
+To prepare your poster, please use the following dimensions: 
+Recommended size: 24"W x 36"H, 61 x 90cm (A1 portrait)
+Maximum size: 48”W x 36”H, 122 x 90 cm (A0 landscape)
+Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
+
+In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: https://wiki.eventhosts.cc/en/reference/posteruploads
+You will be able to submit your poster at this link: https://icml.cc/PosterUpload 
+
 
 <br>
 # Program
