@@ -36,19 +36,6 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 - **Camera-ready poster deadline**: July 15th (see instructions below)
 - **Workshop date**: July 22nd 
 
----
-
-<br>
-# Instructions for Posters
-
-To prepare your poster, please use the following dimensions: 
-- Recommended size: 24"W x 36"H, 61 x 90cm (A1 portrait)
-- Maximum size: 48”W x 36”H, 122 x 90 cm (A0 landscape)
-- Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
-
-In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: [https://wiki.eventhosts.cc/en/reference/posteruploads](https://wiki.eventhosts.cc/en/reference/posteruploads)
-You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://wiki.eventhosts.cc/en/reference/posteruploads) 
-
 
 <br>
 # Program
@@ -111,7 +98,7 @@ You will be able to submit your poster at this link: [https://icml.cc/PosterUplo
 
 #### Workshop Schedule
 
-All times are in Eastern Time.
+All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual/2022/workshop/13476">ICML Workshop Page</a> for live schedule (requires registration).
 
 <table class="table table-striped">
   <tbody>      
@@ -208,9 +195,7 @@ All times are in Eastern Time.
   </tbody>
 </table>
 
- ---
-<br>
-# Accepted Contributions
+#### Accepted Contributions
 
 <table class="table table-striped">
   <tr>
@@ -383,14 +368,24 @@ Please submit your anonymized extended abstract through CMT at [https://cmt3.res
 <br>
 # Logistics and FAQs
 
-ICML 2022 is currently planned as an in-person event. As such, this workshop is currently assuming a hybrid format, with physical poster sessions and in-person speakers, but with support for virtual elements to facilitate participation of people unable to travel. The exact format might evolve in the coming months, depending on the COVID conditions.
-We encourage all interested participants (regardless of their ability to physically travel to ICML) to submit an extended abstracts.
+ICML 2022 is currently planned as an in-person event. As such, this workshop is currently assuming a hybrid format, with physical poster sessions and in-person speakers, but with support for virtual elements to facilitate participation of people unable to travel. We encourage all interested participants (regardless of their ability to physically travel to ICML) to submit an extended abstracts.
 
-Registration for ICML workshops is handled through the main ICML conference registration [here](https://icml.cc/Register2). The workshop will be able to guarantee the ICML registration for participants with accepted contributions (i.e. these participants will not be subject to the ICML lottery).
-
-More information about logistical details will be shared here in the coming weeks.
+Registration for ICML workshops is handled through the main ICML conference registration [here](https://icml.cc/Register2). The workshop will be able to guarantee the ICML registration for participants with accepted contributions.
 
 Inquiries regarding the workshop can be directed to <icml2022ml4astro@gmail.com>
+
+<br>
+## Instructions for Posters
+
+To prepare your poster, please use the following dimensions: 
+- Recommended size: 24"W x 36"H, 61 x 90cm (A1 portrait)
+- Maximum size: 48”W x 36”H, 122 x 90 cm (A0 landscape)
+- Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
+
+In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: [https://wiki.eventhosts.cc/en/reference/posteruploads](https://wiki.eventhosts.cc/en/reference/posteruploads)
+You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://wiki.eventhosts.cc/en/reference/posteruploads) 
+
+
 
 ---
 <br>
