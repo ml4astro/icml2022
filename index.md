@@ -26,18 +26,6 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 </div>
 
 <br>
-### Important Dates
-
-*Note that dates are not final and still subject to change*
-- **Submission deadline**: May 23rd
-- **Author Notification**: June 10th
-- **Slideslive upload deadline for online talks**: July 1st (SlidesLive will only guarantee your recording will be available in time for the conference if you respect the official July 1st deadline, so we highly encourage you to submit it by then.)
-- **Camera-ready paper deadline**: July 10th
-- **Camera-ready poster deadline**: July 15th (see instructions below)
-- **Workshop date**: July 22nd 
-
-
-<br>
 # Program
 
 
@@ -373,6 +361,16 @@ ICML 2022 is currently planned as an in-person event. As such, this workshop is 
 Registration for ICML workshops is handled through the main ICML conference registration [here](https://icml.cc/Register2). The workshop will be able to guarantee the ICML registration for participants with accepted contributions.
 
 Inquiries regarding the workshop can be directed to <icml2022ml4astro@gmail.com>
+
+<br>
+### Important Dates
+
+- **Submission deadline**: May 23rd
+- **Author Notification**: June 10th
+- **Slideslive upload deadline for online talks**: July 1st (SlidesLive will only guarantee your recording will be available in time for the conference if you respect the official July 1st deadline, so we highly encourage you to submit it by then.)
+- **Camera-ready paper deadline**: July 10th
+- **Camera-ready poster deadline**: July 15th (see instructions below)
+- **Workshop date**: July 22nd 
 
 <br>
 ## Instructions for Posters
