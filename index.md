@@ -109,74 +109,262 @@ You will be able to submit your poster at this link: [https://icml.cc/PosterUplo
 </div>
 </div>
 
-#### Tentative schedule
+#### Workshop Schedule
 
-*The following schedule is only tentative and subject to modifications, a final schedule will be
-announced ahead of the workshop.*
+All times are in Eastern Time.
 
 <table class="table table-striped">
-  <tbody>
+  <tbody>      
     <tr>
-      <th scope="row"><nobr>9:15-10:00</nobr> </th>
+      <th scope="row"><nobr>8:45-9:00</nobr> </th>
+      <td>Introduction</td>
+      <td>Welcome and Introduction of the Workshop</td>
+    </tr>       
+    <tr>
+      <th scope="row"><nobr>9:00-10:00</nobr> </th>
       <td>Keynote</td>
-      <td>Katie Bouman: Computational Imaging in astronomy</td>
-    </tr>
+      <td>Jakob Macke: Simulation-based inference and the places it takes us</td>
+    </tr>      
     <tr>
       <th scope="row"><nobr>10:00-10:30</nobr> </th>
-      <td>Spotlight</td>
-      <td> 2 talks </td>
+      <td>Break</td>
+      <td>Morning Coffee Break</td>
     </tr>
     <tr>
-      <th scope="row"><nobr>10:30-11:30</nobr> </th>
-      <td>Pannel Discussion</td>
-      <td>Building an interdisciplinary future</td>
+      <th scope="row"><nobr>10:30-10:45</nobr> </th>
+      <td>Spotlight</td>
+      <td>Aritra Ghosh: GaMPEN: An ML Framework for Estimating Galaxy Morphological Parameters and Quantifying Uncertainty </td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:45-11:00</nobr> </th>
+      <td>Spotlight</td>
+      <td>Ioana Ciuca: Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows </td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:00-11:15</nobr> </th>
+      <td>Spotlight</td>
+      <td>Siddharth Mishra-Sharma: Strong Lensing Source Reconstruction Using Continuous Neural Fields </td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:15-12:15</nobr> </th>
+      <td>Keynote</td>
+      <td>Katherine Bouman: Capturing the First Portrait of Our Milky Way's Black Hole & Beyond</td>
     </tr>
       <tr>
-        <th scope="row"><nobr>11:30-12:30</nobr> </th>
-        <td>Poster Session</td>
-        <td> Morning Session </td>
+        <th scope="row"><nobr>12:15-13:30</nobr> </th>
+        <td>Break</td>
+        <td>Lunch Break </td>
       </tr>
       <tr>
-        <th scope="row"><nobr>12:30-13:30</nobr> </th>
-        <td>Lunch break</td>
-        <td>  </td>
-      </tr>
-      <tr>
-        <th scope="row"><nobr>13:30-14:15</nobr> </th>
-        <td>Keynote</td>
-        <td>Jakob Macke: Simulation-Based Inference </td>
-      </tr>
-      <tr>
-        <th scope="row"><nobr>14:15-15:00</nobr> </th>
-        <td>Spotlight</td>
-        <td> 3 talks </td>
-      </tr>
-      <tr>
-        <th scope="row"><nobr>15:00-16:00</nobr> </th>
-        <td> Poster Session </td>
-        <td> Afternoon Session </td>
-      </tr>
-      <tr>
-        <th scope="row"><nobr>16:00-16:45</nobr> </th>
+        <th scope="row"><nobr>13:30-14:30</nobr> </th>
         <td> Keynote </td>
         <td> Dustin Tran: Uncertainty Quantification and calibration in ML </td>
       </tr>
       <tr>
-        <th scope="row"><nobr>16:45-17:30</nobr> </th>
-        <td> Spotlight </td>
-        <td> 3 talks </td>
+        <th scope="row"><nobr>14:30-14:45</nobr> </th>
+        <td>Spotlight</td>
+        <td>Chirag Modi: Reconstructing the Universe with Variational self-Boosted Sampling</td>
       </tr>
       <tr>
-        <th scope="row"><nobr>17:30-18:15</nobr> </th>
+        <th scope="row"><nobr>14:45-15:00</nobr> </th>
+        <td>Spotlight</td>
+        <td>Yuchen Dang: TNT: Vision Transformer for Turbulence Simulations</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>15:00-15:30</nobr> </th>
+        <td>Break</td>
+        <td>Afternoon Coffee Break</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>15:30-16:30</nobr> </th>
         <td> Keynote </td>
-        <td> Soledad Villar: Symmetries and Equivariance in ML for Physics </td>
+        <td> Soledad Villar: Equivariant machine learning, structured like classical physics </td>
       </tr>
       <tr>
-        <th scope="row"><nobr>18:15-19:15</nobr> </th>
+        <th scope="row"><nobr>16:30-16:45</nobr> </th>
+        <td>Spotlight</td>
+        <td>Kwok Sun Tang:  Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:45-17:00</nobr> </th>
+        <td>Spotlight</td>
+        <td>Denise Lanzieri: Hybrid Physical-Neural ODEs for Fast N-body Simulations</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>17:00-17:15</nobr> </th>
+        <td>Spotlight</td>
+        <td>Tri Nguyen: Uncovering dark matter density profiles in dwarf galaxies with graph neural networks</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>17:30-18:30</nobr> </th>
         <td> Panel Discussion </td>
         <td> Enabling Scientific Discoveries with ML </td>
       </tr>
+      <tr>
+        <th scope="row"><nobr>18:30-20:00</nobr> </th>
+        <td> Poster Session </td>
+        <td> Main Poster Session </td>
+      </tr>
   </tbody>
+</table>
+
+ ---
+<br>
+# Accepted Contributions
+
+<table class="table table-striped">
+  <tr>
+    <td><a href='/icml2022/assets/48.pdf'>Pixelated Reconstruction of Gravitational Lenses using Recurrent Inference Machines</a></td>
+    <td>Adam, Alexandre*</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/17.pdf'>Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows</a></td>
+    <td>Ciuca, Ioana*; Ting, Yuan-Sen</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/28.pdf'>TNT: Vision Transformer for Turbulence Simulations</a></td>
+    <td>Dang, Yuchen*; Hu, Zheyuan; Cranmer, Miles; Eickenberg, Michael; Ho, Shirley</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/39.pdf'>Calibrated Predictive Distributions for Photometric Redshifts</a></td>
+    <td>Dey, Biprateep*; Zhao, David; Andrews, Brett; Newman, Jeff; Izbicki, Rafael; Lee, Ann</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/8.pdf'>Full-Sky Gravitational Lensing Simulations Using Generative Adversarial Networks</a></td>
+    <td>Fiedorowicz, Pier*; Rozo, Eduardo; Boruah, Supranta; Coulton, William; Ho, Shirley; Fabbian, Giulio</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/58.pdf'>GaMPEN: An ML Framework for Estimating Galaxy Morphological Parameters and Quantifying Uncertainty</a></td>
+    <td>Ghosh, Aritra*; Urry, C. Megan; Rau, Amrit; Perreault-Levasseur, Laurence; Cranmer, Miles; Schawinski, Kevin; Stark, Dominic; Tian, Chuan; Ofman, Ryan</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/24.pdf'>SIMBIG: Likelihood-Free Inference of Galaxy Clustering</a></td>
+    <td>Hahn, ChangHoon*; Abidi, Muntazir; Eickenberg, Michael; Ho, Shirley; Lemos, Pablo; Massara, Elena; Moradinezhad Dizgah, Azadeh; Régaldo-Saint Blancard, Bruno</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/26.pdf'>Accelerated Galaxy SED Modeling using Amortized Neural Posterior Estimation</a></td>
+    <td>Hahn, ChangHoon*; Melchior, Peter M</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/27.pdf'>Scalable Bayesian Inference for Detection and Deblending in Astronomical Images</a></td>
+    <td>Hansen, Derek L*; Mendoza, Ismael; Liu, Runjing; Pang, Ziteng; Zhao, Zhe; Avestruz, Camille; Regier, Jeffrey</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/19.pdf'>Galaxies on graph neural networks: towards robust synthetic galaxy catalogs with deep generative models</a></td>
+    <td>Jagvaral, Yesukhei*; Mandelbaum, Rachel; Lanusse, Francois; Ravanbakhsh, Siamak; Singh, Sukhdeep; Campbell, Duncan</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/41.pdf'>Learning Galaxy Properties from Merger Trees</a></td>
+    <td>Jespersen, Christian K*; Cranmer, Miles; Melchior, Peter M; Ho, Shirley; Somerville, Rachel; Gabrielpillai, Austen</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/54.pdf'>Probabilistic Dalek - Emulator framework with probabilistic prediction for supernova tomography</a></td>
+    <td>Kerzendorf, Wolfgang E*; Chen, Nutan; van der Smagt, Patrick</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/60.pdf'>Hybrid Physical-Neural ODEs for Fast N-body Simulations</a></td>
+    <td>Lanzieri, Denise*; Lanusse, Francois; Starck, Jean-Luc</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/47.pdf'>Population-Level Inference of Strong Gravitational Lenses with Neural Network-Based Selection Correction</a></td>
+    <td>Legin, Ronan*; Stone, Connor J; Hezaveh, Yashar; Perreault-Levasseur, Laurence</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/18.pdf'>Robust Simulation-Based Inference in Cosmology with Bayesian Neural Networks</a></td>
+    <td>Lemos, Pablo*; Cranmer, Miles; Abidi, Muntazir; Hahn, Chang Hoon; Eickenberg, Michael; Massara, Elena; Yallup, David; Ho, Shirley</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/32.pdf'>DeepBench: A library for simulating benchmark datasets for scientific analysis</a></td>
+    <td>Lewis, Ashia; Voetberg, Margaret*; Nord, Brian; Jones, Craig; Hložek, Renée; Ciprijanovic, Aleksandra; Perdue, Gabriel Nathan</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/56.pdf'>On Estimating ROC Arc Length and Lower Bounding Maximal AUC for Imbalanced Classification</a></td>
+    <td>Liu, Song*</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/50.pdf'>Autoencoding Galaxy Spectra</a></td>
+    <td>Melchior, Peter M*; Hahn, ChangHoon; Liang, Yan</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/34.pdf'>Strong Lensing Source Reconstruction Using Continuous Neural Fields</a></td>
+    <td>Mishra-Sharma, Siddharth*; Yang, Ge</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/14.pdf'>Reconstructing the Universe with Variational self-Boosted Sampling</a></td>
+    <td>Modi, Chirag*; Li, Yin; Blei, David</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/21.pdf'>Bayesian Neural Networks for classification tasks in the Rubin big data era</a></td>
+    <td>Moller, Anais*; Main de Boissiere, Thibault</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/11.pdf'>Don't Pay Attention to the Noise: Learning Self-supervised Representations of Light Curves with a Denoising Time Series Transformer</a></td>
+    <td>Morvan, Mario*; Nikolaou, Nikolaos; Yip, Kai; Waldmann, Ingo</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/38.pdf'>Uncovering dark matter density profiles in dwarf galaxies with graph neural networks</a></td>
+    <td>Nguyen, Tri*; Mishra-Sharma, Siddharth; Necib, Lina</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/10.pdf'>Astroconformer: Inferring Surface Gravity of Stars from Stellar Light Curves with Transformer</a></td>
+    <td>Pan, Jiashu*; Ting, Yuan-Sen; Yu, Jie</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/40.pdf'>Learnable wavelet neural networks for cosmological inference</a></td>
+    <td>Pedersen, Chris*; Ho, Shirley; Eickenberg, Michael</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/51.pdf'>A Convolutional Neural Network for Supernova Time-Series Classification</a></td>
+    <td>Qu, Helen*</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/20.pdf'>Estimating Cosmological Constraints from Galaxy Cluster Abundance using Simulation-Based Inference</a></td>
+    <td>Reza, Moonzarin*; Zhang, Yuanyuan; Nord, Brian; Poh, Jason; Ciprijanovic, Aleksandra; Strigari, Louis</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/12.pdf'>Fast Estimation of Physical Galaxy Properties using Simulation-Based Inference</a></td>
+    <td>Robeyns, Maxime H*; Walmsley, Mike; Fotopoulou, Sotiria; Aitchison, Laurence</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/53.pdf'>Learning useful representations for radio astronomy “in the wild” with contrastive learning</a></td>
+    <td>Slijepcevic, Inigo V*; Scaife, Anna; Walmsley, Mike; Bowles, Micah R</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/9.pdf'>An Unsupervised Learning Approach for Quasar Continuum Prediction</a></td>
+    <td>Sun, Zechang*; Ting, Yuan-Sen; Cai, Zheng</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/13.pdf'>Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows</a></td>
+    <td>Tang, Kwok Sun*; Ting, Yuan-Sen</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/15.pdf'>Reduced Order Model for Chemical Kinetics: A case study with Primordial Chemical Network</a></td>
+    <td>Tang, Kwok Sun*; Turk, Matthew</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/22.pdf'>Inferring Structural Parameters of Low-Surface-Brightness-Galaxies with Uncertainty Quantification using Bayesian Neural Networks</a></td>
+    <td>Tanoglidis, Dimitrios*; Drlica-Wanger, Alex ; Ciprijanovic, Aleksandra</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/43.pdf'>LINNA: Likelihood Inference Neural Network Accelerator</a></td>
+    <td>To, Chun-Hao*; Rozo, Eduardo</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/29.pdf'>Toward Galaxy Foundation Models with Hybrid Contrastive Learning</a></td>
+    <td>Walmsley, Mike*; Slijepcevic, Inigo; Bowles, Micah R; Scaife, Anna</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/25.pdf'>Automated discovery of interpretable gravitational-wave population models</a></td>
+    <td>Wong, Kaze*; Cranmer, Miles</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/52.pdf'>Neural Posterior Estimation with Differentiable Simulator</a></td>
+    <td>Zeghal, Justine*; Lanusse, Francois; Boucaud, Alexandre; Remy, Benjamin; Aubourg, Eric</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2022/assets/6.pdf'>Parameter Estimation in Realistic Binary Microlensing Light Curves with Neural Controlled Differential Equation</a></td>
+    <td>Zhao, Haimeng*; Zhu, Wei</td>
+  </tr>
 </table>
 
  ---
