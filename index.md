@@ -108,17 +108,17 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
     <tr>
       <th scope="row"><nobr>10:30-10:45</nobr> </th>
       <td>Spotlight</td>
-      <td>Aritra Ghosh: GaMPEN: An ML Framework for Estimating Galaxy Morphological Parameters and Quantifying Uncertainty </td>
+      <td>Aritra Ghosh: <a href='/icml2022/assets/58.pdf'>GaMPEN: An ML Framework for Estimating Galaxy Morphological Parameters and Quantifying Uncertainty</a> </td>
     </tr>
     <tr>
       <th scope="row"><nobr>10:45-11:00</nobr> </th>
       <td>Spotlight</td>
-      <td>Ioana Ciuca: Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows </td>
+      <td>Ioana Ciuca: <a href='/icml2022/assets/17.pdf'>Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows</a> </td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:00-11:15</nobr> </th>
       <td>Spotlight</td>
-      <td>Siddharth Mishra-Sharma: Strong Lensing Source Reconstruction Using Continuous Neural Fields </td>
+      <td>Siddharth Mishra-Sharma: <a href='/icml2022/assets/34.pdf'>Strong Lensing Source Reconstruction Using Continuous Neural Fields</a> </td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:15-12:15</nobr> </th>
@@ -138,12 +138,12 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
       <tr>
         <th scope="row"><nobr>14:30-14:45</nobr> </th>
         <td>Spotlight</td>
-        <td>Chirag Modi: Reconstructing the Universe with Variational self-Boosted Sampling</td>
+        <td>Chirag Modi: <a href='/icml2022/assets/13.pdf'>Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>14:45-15:00</nobr> </th>
         <td>Spotlight</td>
-        <td>Yuchen Dang: TNT: Vision Transformer for Turbulence Simulations</td>
+        <td>Yuchen Dang: <a href='/icml2022/assets/28.pdf'>TNT: Vision Transformer for Turbulence Simulations</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>15:00-15:30</nobr> </th>
@@ -158,17 +158,17 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
       <tr>
         <th scope="row"><nobr>16:30-16:45</nobr> </th>
         <td>Spotlight</td>
-        <td>Kwok Sun Tang:  Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows</td>
+        <td>Kwok Sun Tang: <a href='/icml2022/assets/13.pdf'>Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>16:45-17:00</nobr> </th>
         <td>Spotlight</td>
-        <td>Denise Lanzieri: Hybrid Physical-Neural ODEs for Fast N-body Simulations</td>
+        <td>Denise Lanzieri: <a href='/icml2022/assets/60.pdf'>Hybrid Physical-Neural ODEs for Fast N-body Simulations</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>17:00-17:15</nobr> </th>
         <td>Spotlight</td>
-        <td>Tri Nguyen: Uncovering dark matter density profiles in dwarf galaxies with graph neural networks</td>
+        <td>Tri Nguyen: <a href='/icml2022/assets/38.pdf'>Uncovering dark matter density profiles in dwarf galaxies with graph neural networks</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>17:30-18:30</nobr> </th>
