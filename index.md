@@ -133,7 +133,7 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
       <tr>
         <th scope="row"><nobr>13:30-14:30</nobr> </th>
         <td> Keynote </td>
-        <td> Dustin Tran: Uncertainty Quantification and calibration in ML </td>
+        <td> Dustin Tran: Uncertainty Quantification in Deep Learning </td>
       </tr>
       <tr>
         <th scope="row"><nobr>14:30-14:45</nobr> </th>
