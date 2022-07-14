@@ -183,6 +183,7 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
   </tbody>
 </table>
 
+<br>
 #### Accepted Contributions
 
 <table class="table table-striped">
@@ -381,7 +382,7 @@ To prepare your poster, please use the following dimensions:
 - Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
 
 In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: [https://wiki.eventhosts.cc/en/reference/posteruploads](https://wiki.eventhosts.cc/en/reference/posteruploads)
-You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://wiki.eventhosts.cc/en/reference/posteruploads) 
+You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://icml.cc/PosterUpload) 
 
 
 
