@@ -1,16 +1,18 @@
 ---
 layout: home
-background: '/assets/background.jpg'
+background: "/assets/background.jpg"
 ---
+
 #### Rationale
 
 As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of hundreds of millions of distant galaxies to the mapping of cosmic radiation fields at ultra-high resolution, conventional data analysis methods are reaching their limits in both computational complexity and optimality. Deep Learning has rapidly been adopted by the astronomical community as a promising way of exploiting these forthcoming big-data datasets and of extracting the physical principles that underlie these complex observations. This has led to an unprecedented exponential growth of publications with in the last year alone about 500 astrophysics papers mentioning deep learning or neural networks in their abstract. Yet, many of these works remain at an exploratory level and have not been translated into real scientific breakthroughs.
 
 **The goal of this ICML 2022 workshop is to bring together Machine Learning researchers and domain experts in the field of Astrophysics to discuss the key open issues which hamper the use of Deep Learning for scientific discovery.**
 
-An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools. This workshop is designed to facilitate this dialog and will include a mix of interdisciplinary invited talks and panel discussions, providing an *opportunity for ICML audiences to connect their research interests to concrete and outstanding scientific challenges*.
+An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools. This workshop is designed to facilitate this dialog and will include a mix of interdisciplinary invited talks and panel discussions, providing an _opportunity for ICML audiences to connect their research interests to concrete and outstanding scientific challenges_.
 
-We welcome in particular contributions that target, *or report on*, the following non-exhaustive list of open problems:
+We welcome in particular contributions that target, _or report on_, the following non-exhaustive list of open problems:
+
 - Efficient high-dimensional Likelihood-based and Simulation-Based Inference
 - Robustness to covariate shifts and model misspecification
 - Anomaly and outlier detection, search for rare signals with ML
@@ -21,13 +23,13 @@ We welcome in particular contributions that target, *or report on*, the followin
 - Benchmarking and deployment of ML models for large-scale data analysis
 
 Contributions on these topics do not necessarily need to be Astrophysics-focused, works on relevant ML methodology, or similar considerations in other scientific fields, are welcome.
+
 <div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
   <a class="btn btn-primary" href="{{"#call-for-abstracts" | relative_url }}">See Call For Abstracts</a>
 </div>
 
 <br>
 # Program
-
 
 #### Confirmed Invited Speakers and Panelists
 
@@ -138,7 +140,7 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
       <tr>
         <th scope="row"><nobr>14:30-14:45</nobr> </th>
         <td>Spotlight</td>
-        <td>Chirag Modi: <a href='/icml2022/assets/13.pdf'>Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows</a></td>
+        <td>Chirag Modi: <a href='/icml2022/assets/14.pdf'>Reconstructing the Universe with Variational self-Boosted Sampling</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>14:45-15:00</nobr> </th>
@@ -341,7 +343,8 @@ All times are in Eastern Time. Please visit the <a href="https://icml.cc/virtual
   </tr>
 </table>
 
- ---
+---
+
 <br>
 # Call for Abstracts
 
@@ -351,9 +354,10 @@ Original contributions and early research works are encouraged. Contributions pr
 
 Submissions, in the form of extended abstracts, need to adhere to the [ICML 2022 format](https://icml.cc/Conferences/2022/StyleAuthorInstructions) ([LaTeX style files](https://media.icml.cc/Conferences/ICML2022/Styles/icml2022.zip)), be anonymized, and be no longer than 4 pages (excluding references). After double-blind review, a limited set of submissions will be selected for contributed talks, and a wider set of submissions will be selected for poster presentations.
 
-Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2022](https://cmt3.research.microsoft.com/ML4Astro2022)  **before May 23rd, 23:59 AOE**.
+Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2022](https://cmt3.research.microsoft.com/ML4Astro2022) **before May 23rd, 23:59 AOE**.
 
 ---
+
 <br>
 # Logistics and FAQs
 
@@ -371,22 +375,22 @@ Inquiries regarding the workshop can be directed to <icml2022ml4astro@gmail.com>
 - **Slideslive upload deadline for online talks**: July 1st (SlidesLive will only guarantee your recording will be available in time for the conference if you respect the official July 1st deadline, so we highly encourage you to submit it by then.)
 - **Camera-ready paper deadline**: July 10th
 - **Camera-ready poster deadline**: July 15th (see instructions below)
-- **Workshop date**: July 22nd 
+- **Workshop date**: July 22nd
 
 <br>
 ## Instructions for Posters
 
-To prepare your poster, please use the following dimensions: 
+To prepare your poster, please use the following dimensions:
+
 - Recommended size: 24"W x 36"H, 61 x 90cm (A1 portrait)
 - Maximum size: 48”W x 36”H, 122 x 90 cm (A0 landscape)
 - Please use lightweight paper for printing, poster boards may not be available for workshops, but you will be able to tape your poster to the wall using provided tape.
 
 In addition to the physical poster, please visit this page for instructions on how to upload the camera-ready version of your poster to the ICML website: [https://wiki.eventhosts.cc/en/reference/posteruploads](https://wiki.eventhosts.cc/en/reference/posteruploads)
-You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://icml.cc/PosterUpload) 
-
-
+You will be able to submit your poster at this link: [https://icml.cc/PosterUpload](https://icml.cc/PosterUpload)
 
 ---
+
 <br>
 # SOC
 
